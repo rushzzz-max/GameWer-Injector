@@ -1,0 +1,11 @@
+﻿  GameWer-Injector.cpp
+C:\Users\hannes\source\repos\GameWer-Injector\GameWer-Injector\GameWer-Injector.cpp(162,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+C:\Users\hannes\source\repos\GameWer-Injector\GameWer-Injector\GameWer-Injector.cpp(162,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'HANDLE'
+C:\Users\hannes\source\repos\GameWer-Injector\GameWer-Injector\GameWer-Injector.cpp(168,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+C:\Users\hannes\source\repos\GameWer-Injector\GameWer-Injector\GameWer-Injector.cpp(168,11): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'HANDLE'
+  Generating code
+  0 of 40 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameWer-Injector.vcxproj -> C:\Users\hannes\source\repos\GameWer-Injector\x64\Release\GameWer-Injector.exe
